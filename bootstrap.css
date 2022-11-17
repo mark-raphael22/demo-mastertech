@@ -39,7 +39,10 @@ a:hover {
 .horizontal-scroll {
     overflow-x: auto;
 }
+.dave :hover {
+color: brown!important;
 
+}
 
 
 
